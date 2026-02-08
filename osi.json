@@ -46,7 +46,7 @@
         "to":"Same NLC OSI",
         "time":15,
         "type":"Magnetic & PAYG",
-        "interchange_note":"Central\/northern\/dlr and waterloo & city gatelines"
+        "interchange_note":"Central\/Northern\/DLR and Waterloo & City gatelines"
     },
     {
         "from":"Bank",
@@ -242,7 +242,7 @@
         "to":"Same NLC OSI",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Integrated ticket hall and other entrances"
+        "interchange_note":"Integrated Ticket Hall and other entrances"
     },
     {
         "from":"Finchley Road",
@@ -312,7 +312,7 @@
         "to":"Same NLC OSI",
         "time":15,
         "type":"PAYG only",
-        "interchange_note":"Lo platforms w end exit and main entrance"
+        "interchange_note":"LO platforms W end exit and main entrance"
     },
     {
         "from":"Ickenham",
@@ -438,14 +438,14 @@
         "to":"Same NLC OSI",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Argyll street exit and main entrance"
+        "interchange_note":"Argyll Street exit and main entrance"
     },
     {
         "from":"Paddington LU",
         "to":"Same NLC OSI",
         "time":20,
         "type":"Magnetic & PAYG",
-        "interchange_note":"Platforms 15 & 16 and other lu gatelines"
+        "interchange_note":"Platforms 15 & 16 and other LU gatelines"
     },
     {
         "from":"Paddington LU",
@@ -480,7 +480,7 @@
         "to":"Same NLC OSI",
         "time":20,
         "type":"PAYG only",
-        "interchange_note":"Seven sisters road and platform 2 secondary exit"
+        "interchange_note":"Seven Sisters Road and Platform 2 secondary exit"
     },
     {
         "from":"Seven Sisters",
@@ -522,7 +522,7 @@
         "to":"Same NLC OSI",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Central and northern line gatelines"
+        "interchange_note":"Central and Northern line gatelines"
     },
     {
         "from":"Tottenham H LU",
@@ -585,7 +585,7 @@
         "to":"Same NLC OSI",
         "time":15,
         "type":"PAYG only",
-        "interchange_note":"W&c and bakerloo\/northern"
+        "interchange_note":"W&C and Bakerloo\/Northern"
     },
     {
         "from":"Waterloo LU",
@@ -641,14 +641,14 @@
         "to":"Same NLC OSI",
         "time":5,
         "type":"PAYG only",
-        "interchange_note":"Eb and wb platforms"
+        "interchange_note":"EB and WB platforms"
     },
     {
         "from":"Woodford",
         "to":"Same NLC OSI",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Sb to nb (step-free)"
+        "interchange_note":"SB to NB (step-free)"
     },
     {
         "from":"Kings Cross LU",
@@ -858,7 +858,7 @@
         "to":"Same NLC OSI",
         "time":30,
         "type":"PAYG only",
-        "interchange_note":"East midlands railway platforms and thameslink"
+        "interchange_note":"East Midlands Railway platforms and Thameslink"
     },
     {
         "from":"St Pancras Intl",
@@ -914,7 +914,7 @@
         "to":"Same NLC OSI",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"North end of platform 1 and 2-4"
+        "interchange_note":"North end of Platform 1 and 2-4"
     },
     {
         "from":"London Bridge NR",
@@ -1089,7 +1089,7 @@
         "to":"Bank",
         "time":15,
         "type":"Magnetic & PAYG",
-        "interchange_note":"Waterloo & city gatelines and central\/northern\/dlr"
+        "interchange_note":"Waterloo & City gatelines and Central\/Northern\/DLR"
     },
     {
         "from":"Cannon St LU",
@@ -1285,7 +1285,7 @@
         "to":"Farringdon",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Other entrances and integrated ticket hall"
+        "interchange_note":"Other entrances and Integrated Ticket Hall"
     },
     {
         "from":"Finchley Rd Fgnl",
@@ -1355,7 +1355,7 @@
         "to":"Highbury",
         "time":15,
         "type":"PAYG only",
-        "interchange_note":"Main entrance and lo platforms w end exit"
+        "interchange_note":"Main entrance and LO platforms W end exit"
     },
     {
         "from":"West Ruislip",
@@ -1481,14 +1481,14 @@
         "to":"Oxford Circus",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Main entrance and argyll street exit"
+        "interchange_note":"Main entrance and Argyll Street exit"
     },
     {
         "from":"Same NLC OSI",
         "to":"Paddington LU",
         "time":20,
         "type":"Magnetic & PAYG",
-        "interchange_note":"Other lu gatelines and platforms 15 & 16"
+        "interchange_note":"Other LU gatelines and Platforms 15 & 16"
     },
     {
         "from":"Paddington",
@@ -1523,7 +1523,7 @@
         "to":"Seven Sisters",
         "time":20,
         "type":"PAYG only",
-        "interchange_note":"Platform 2 secondary exit and seven sisters road"
+        "interchange_note":"Platform 2 secondary exit and Seven Sisters Road"
     },
     {
         "from":"South Tottenham",
@@ -1565,7 +1565,7 @@
         "to":"Tottenham Ct Rd",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Northern line gatelines and central"
+        "interchange_note":"Northern line gatelines and Central"
     },
     {
         "from":"Tottenham H NR",
@@ -1628,7 +1628,7 @@
         "to":"Waterloo LU",
         "time":15,
         "type":"PAYG only",
-        "interchange_note":"Bakerloo\/northern and w&c"
+        "interchange_note":"Bakerloo\/Northern and W&C"
     },
     {
         "from":"Waterloo LU",
@@ -1684,14 +1684,14 @@
         "to":"West Harrow",
         "time":5,
         "type":"PAYG only",
-        "interchange_note":"Wb platforms and eb"
+        "interchange_note":"WB platforms and EB"
     },
     {
         "from":"Same NLC OSI",
         "to":"Woodford",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Nb (step-free) to sb"
+        "interchange_note":"NB (step-free) to SB"
     },
     {
         "from":"St Pancras Intl",
@@ -1901,7 +1901,7 @@
         "to":"St Pancras Intl",
         "time":30,
         "type":"PAYG only",
-        "interchange_note":"Thameslink and east midlands railway platforms"
+        "interchange_note":"Thameslink and East Midlands Railway platforms"
     },
     {
         "from":"Kings Cross NR",
@@ -1936,7 +1936,7 @@
         "to":"Lewisham NR",
         "time":15,
         "type":"PAYG only",
-        "interchange_note":"Other plats (step-free) and plat 1"
+        "interchange_note":"Other plats (step-free) and Plat 1"
     },
     {
         "from":"Bromley North",
@@ -1957,7 +1957,7 @@
         "to":"Blackfriars NR",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"2-4 and north end of platform 1"
+        "interchange_note":"2-4 and North end of Platform 1"
     },
     {
         "from":"London Bridge NR",
@@ -2020,7 +2020,7 @@
         "to":"Richmond",
         "time":10,
         "type":"PAYG only",
-        "interchange_note":"Lower concourse (step-free) and bridge"
+        "interchange_note":"Lower concourse (step-free) and Bridge"
     },
     {
         "from":"Harringay Grn Ln",
@@ -2069,7 +2069,7 @@
         "to":"Liverpool St NR",
         "time":30,
         "type":"PAYG only",
-        "interchange_note":"11-18 and platforms 1-10"
+        "interchange_note":"11-18 and Platforms 1-10"
     },
     {
         "from":"Fenchurch St NR",
@@ -2083,6 +2083,6 @@
         "to":"Victoria NR",
         "time":30,
         "type":"PAYG only",
-        "interchange_note":"8 and platforms 1-7"
+        "interchange_note":"8 and Platforms 1-7"
     }
 ]
