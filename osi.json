@@ -1,0 +1,2088 @@
+[
+    {
+        "from":"Aldgate",
+        "to":"Aldgate East",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Aldgate",
+        "to":"Tower Gatewy DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Aldgate",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Archway",
+        "to":"Upper Holloway",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Baker Street",
+        "to":"Marylebone NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Balham LU",
+        "to":"Balham NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bank",
+        "to":"Same NLC OSI",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":"Central\/northern\/dlr and waterloo & city gatelines"
+    },
+    {
+        "from":"Bank",
+        "to":"Cannon St LU",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bank",
+        "to":"Monument",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Bank",
+        "to":"Cannon St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Bank",
+        "to":"Liverpool St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Bank",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Bayswater",
+        "to":"Queensway",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Blackfriars LU",
+        "to":"Blackfriars NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bond Street",
+        "to":"Oxford Circ",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bounds Green",
+        "to":"Bowes Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bow Road",
+        "to":"Bow Church DLR",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Camden Town",
+        "to":"Camden Road",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Cannon St LU",
+        "to":"Cannon St NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Embankment",
+        "to":"Charing X NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Embankment",
+        "to":"Waterloo E NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Embankment",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Embankment",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Embankment",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Clapham North",
+        "to":"Clapham High St",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"East Putney",
+        "to":"Putney",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Edgware Rd C&H",
+        "to":"Edgware Rd B",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Edgware Rd C&H",
+        "to":"Marylebone NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Elephant & C LU",
+        "to":"Elephant & C NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Woolwch Arsn DLR",
+        "to":"Woolwich",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston LU",
+        "to":"Euston Square",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston LU",
+        "to":"Euston NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston Square",
+        "to":"Warren Street",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston Square",
+        "to":"Euston NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Farringdon",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Integrated ticket hall and other entrances"
+    },
+    {
+        "from":"Finchley Road",
+        "to":"Finchley Rd Fgnl",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Finsbury Pk LU",
+        "to":"Finsbury Pk NR",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Hammersmith D&P",
+        "to":"Hammersmith C&H",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Hanger Lane",
+        "to":"Park Royal",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Wood Lane",
+        "to":"White City",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"St Pancras Intl",
+        "time":30,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Highbury",
+        "to":"Same NLC OSI",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"Lo platforms w end exit and main entrance"
+    },
+    {
+        "from":"Ickenham",
+        "to":"West Ruislip",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kentish Town",
+        "to":"Kentish Tn West",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kenton",
+        "to":"Northwick Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kilburn",
+        "to":"Brondesbury",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"St Pancras Intl",
+        "time":30,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Lancaster Gate",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Lancaster Gate",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Lancaster Gate",
+        "to":"Paddington EL",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Leytonstone",
+        "to":"Leytonstone H Rd",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St LU",
+        "to":"Liverpool St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"London Bridge LU",
+        "to":"London Bridge NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"London Bridge LU",
+        "to":"London Bridge NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone LU",
+        "to":"Marylebone NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Monument",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Moorgate",
+        "to":"Liverpool St NR",
+        "time":40,
+        "type":"Payg Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Oxford Circus",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Argyll street exit and main entrance"
+    },
+    {
+        "from":"Paddington LU",
+        "to":"Same NLC OSI",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":"Platforms 15 & 16 and other lu gatelines"
+    },
+    {
+        "from":"Paddington LU",
+        "to":"Paddington",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington LU",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"Magnetic & Contactless",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington LU",
+        "to":"Paddington EL",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St LU",
+        "to":"Liverpool St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Seven Sisters",
+        "to":"Same NLC OSI",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":"Seven sisters road and platform 2 secondary exit"
+    },
+    {
+        "from":"Seven Sisters",
+        "to":"South Tottenham",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Shepherds Bsh LU",
+        "to":"Shepherds Bsh LO",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Sudbury Hil",
+        "to":"Sudbury Hill Hrw",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria D LU",
+        "to":"Victoria NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria D LU",
+        "to":"Victoria NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Tottenham Ct Rd",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Central and northern line gatelines"
+    },
+    {
+        "from":"Tottenham H LU",
+        "to":"Tottenham H NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Tower Hill",
+        "to":"Tower Gatewy DLR",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Tower Hill",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Charing X LU",
+        "to":"Charing X NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria V LU",
+        "to":"Victoria NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria V LU",
+        "to":"Victoria NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthmstow C LU",
+        "to":"Walthamstow C LO",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthmstow C LU",
+        "to":"Walthamstow Q Rd",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Same NLC OSI",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"W&c and bakerloo\/northern"
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo LU",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo E NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead LU",
+        "to":"W Hampstead LO",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead LU",
+        "to":"W Hampstead Tlnk",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"West Harrow",
+        "to":"Same NLC OSI",
+        "time":5,
+        "type":"PAYG only",
+        "interchange_note":"Eb and wb platforms"
+    },
+    {
+        "from":"Woodford",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Sb to nb (step-free)"
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"St Pancras Intl",
+        "time":30,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross NR",
+        "time":40,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Vauxhall LU",
+        "to":"Vauxhall NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Brixton LU",
+        "to":"Brixton NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Southwark",
+        "to":"Blackfriars NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Southwark",
+        "to":"Waterloo E NR",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo E NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Battersea Pwr S",
+        "to":"Battersea Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Battersea Pwr S",
+        "to":"Queenstown Road",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf DLR",
+        "to":"Canary Wharf LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf DLR",
+        "to":"Canary Wharf EL",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf LU",
+        "to":"Heron Quays DLR",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf LU",
+        "to":"Canary Wharf EL",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Poplar DLR",
+        "to":"Canary Wharf EL",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Shadwell DLR",
+        "to":"Shadwell LO",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Limehouse DLR",
+        "to":"Limehouse NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Tower Gatewy DLR",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W India Quay DLR",
+        "to":"Canary Wharf EL",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Custom House DLR",
+        "to":"Custom House EL",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Lewisham DLR",
+        "to":"Lewisham NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead LO",
+        "to":"W Hampstead Tlnk",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Dalston Kingsld",
+        "to":"Dalston Junction",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston NR",
+        "to":"St Pancras Intl",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston NR",
+        "to":"Kings Cross NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone NR",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone NR",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Same NLC OSI",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"East midlands railway platforms and thameslink"
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Kings Cross NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Paddington EL",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Catford Bridge",
+        "to":"Catford",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Clock House",
+        "to":"Kent House",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Lewisham NR",
+        "to":"Same NLC OSI",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"Plat 1 and other plats (step-free)"
+    },
+    {
+        "from":"Bromley South",
+        "to":"Bromley North",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Penge East",
+        "to":"Penge West",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Blackfriars NR",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"North end of platform 1 and 2-4"
+    },
+    {
+        "from":"London Bridge NR",
+        "to":"London Bridge NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"New Cross",
+        "to":"New Cross Gate",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Woolwch Arsn NR",
+        "to":"Woolwich",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Waterloo NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Waterloo NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Waterloo NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Upper Warlingham",
+        "to":"Whyteleafe",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Richmond",
+        "to":"Same NLC OSI",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Bridge and lower concourse (step-free)"
+    },
+    {
+        "from":"Harringay",
+        "to":"Harringay Grn Ln",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Paddington EL",
+        "time":20,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Hackney Downs",
+        "to":"Hackney Central",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Forest Gate",
+        "to":"Wanstead Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Manor Park",
+        "to":"Woodgrange Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthamstow C LO",
+        "to":"Walthamstw Qns Rd",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Same NLC OSI",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"Platforms 1-10 and 11-18"
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Fenchurch St NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Same NLC OSI",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"Platforms 1-7 and 8"
+    },
+    {
+        "from":"Aldgate East",
+        "to":"Aldgate",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Tower Gatewy DLR",
+        "to":"Aldgate",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Aldgate",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Upper Holloway",
+        "to":"Archway",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone NR",
+        "to":"Baker Street",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Balham NR",
+        "to":"Balham LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Bank",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":"Waterloo & city gatelines and central\/northern\/dlr"
+    },
+    {
+        "from":"Cannon St LU",
+        "to":"Bank",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Monument",
+        "to":"Bank",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Cannon St NR",
+        "to":"Bank",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Bank",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Bank",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Queensway",
+        "to":"Bayswater",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Blackfriars NR",
+        "to":"Blackfriars LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Oxford Circ",
+        "to":"Bond Street",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bowes Park",
+        "to":"Bounds Green",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Bow Church DLR",
+        "to":"Bow Road",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Camden Road",
+        "to":"Camden Town",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Cannon St NR",
+        "to":"Cannon St LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Charing X NR",
+        "to":"Embankment",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Embankment",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Embankment",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Embankment",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Embankment",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Clapham High St",
+        "to":"Clapham North",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Putney",
+        "to":"East Putney",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Edgware Rd B",
+        "to":"Edgware Rd C&H",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone NR",
+        "to":"Edgware Rd C&H",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Elephant & C NR",
+        "to":"Elephant & C LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Woolwich",
+        "to":"Woolwch Arsn DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston Square",
+        "to":"Euston LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston NR",
+        "to":"Euston LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Warren Street",
+        "to":"Euston Square",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Euston NR",
+        "to":"Euston Square",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Farringdon",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Other entrances and integrated ticket hall"
+    },
+    {
+        "from":"Finchley Rd Fgnl",
+        "to":"Finchley Road",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Finsbury Pk NR",
+        "to":"Finsbury Pk LU",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Hammersmith C&H",
+        "to":"Hammersmith D&P",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Park Royal",
+        "to":"Hanger Lane",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"White City",
+        "to":"Wood Lane",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross NR",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Highbury",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"Main entrance and lo platforms w end exit"
+    },
+    {
+        "from":"West Ruislip",
+        "to":"Ickenham",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kentish Tn West",
+        "to":"Kentish Town",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Northwick Park",
+        "to":"Kenton",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Brondesbury",
+        "to":"Kilburn",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross LU",
+        "to":"Kings Cross LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross NR",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Lancaster Gate",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Lancaster Gate",
+        "time":20,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington EL",
+        "to":"Lancaster Gate",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Leytonstone H Rd",
+        "to":"Leytonstone",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Liverpool St LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"London Bridge NR",
+        "to":"London Bridge LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"London Bridge NR",
+        "to":"London Bridge LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Marylebone NR",
+        "to":"Marylebone LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Monument",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Moorgate",
+        "time":20,
+        "type":"Payg Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Oxford Circus",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Main entrance and argyll street exit"
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Paddington LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":"Other lu gatelines and platforms 15 & 16"
+    },
+    {
+        "from":"Paddington",
+        "to":"Paddington LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Paddington LU",
+        "time":20,
+        "type":"Magnetic & Contactless",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington EL",
+        "to":"Paddington LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Liverpool St NR",
+        "to":"Liverpool St LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Seven Sisters",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":"Platform 2 secondary exit and seven sisters road"
+    },
+    {
+        "from":"South Tottenham",
+        "to":"Seven Sisters",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Shepherds Bsh LO",
+        "to":"Shepherds Bsh LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Sudbury Hill Hrw",
+        "to":"Sudbury Hil",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria D LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria D LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Tottenham Ct Rd",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Northern line gatelines and central"
+    },
+    {
+        "from":"Tottenham H NR",
+        "to":"Tottenham H LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Tower Gatewy DLR",
+        "to":"Tower Hill",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Tower Hill",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Charing X NR",
+        "to":"Charing X LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria V LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria V LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthamstow C LO",
+        "to":"Walthmstow C LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthamstow Q Rd",
+        "to":"Walthmstow C LU",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Waterloo LU",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"Bakerloo\/northern and w&c"
+    },
+    {
+        "from":"Waterloo LU",
+        "to":"Waterloo LU",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead LO",
+        "to":"W Hampstead LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead Tlnk",
+        "to":"W Hampstead LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"West Harrow",
+        "time":5,
+        "type":"PAYG only",
+        "interchange_note":"Wb platforms and eb"
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Woodford",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Nb (step-free) to sb"
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross NR",
+        "to":"Kings Cross LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Vauxhall NR",
+        "to":"Vauxhall LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Brixton NR",
+        "to":"Brixton LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Blackfriars NR",
+        "to":"Southwark",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Southwark",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo E NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo LU",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Battersea Park",
+        "to":"Battersea Pwr S",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Queenstown Road",
+        "to":"Battersea Pwr S",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf LU",
+        "to":"Canary Wharf DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf EL",
+        "to":"Canary Wharf DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Heron Quays DLR",
+        "to":"Canary Wharf LU",
+        "time":15,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf EL",
+        "to":"Canary Wharf LU",
+        "time":20,
+        "type":"Magnetic & PAYG",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf EL",
+        "to":"Poplar DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Shadwell LO",
+        "to":"Shadwell DLR",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Limehouse NR",
+        "to":"Limehouse DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Tower Gatewy DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Canary Wharf EL",
+        "to":"W India Quay DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Custom House EL",
+        "to":"Custom House DLR",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Lewisham NR",
+        "to":"Lewisham DLR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"W Hampstead Tlnk",
+        "to":"W Hampstead LO",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Dalston Junction",
+        "to":"Dalston Kingsld",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"St Pancras Intl",
+        "to":"Euston NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kings Cross NR",
+        "to":"Euston NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Marylebone NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington NR",
+        "to":"Marylebone NR",
+        "time":40,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"St Pancras Intl",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"Thameslink and east midlands railway platforms"
+    },
+    {
+        "from":"Kings Cross NR",
+        "to":"St Pancras Intl",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington EL",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Catford",
+        "to":"Catford Bridge",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Kent House",
+        "to":"Clock House",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Lewisham NR",
+        "time":15,
+        "type":"PAYG only",
+        "interchange_note":"Other plats (step-free) and plat 1"
+    },
+    {
+        "from":"Bromley North",
+        "to":"Bromley South",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Penge West",
+        "to":"Penge East",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Blackfriars NR",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"2-4 and north end of platform 1"
+    },
+    {
+        "from":"London Bridge NR",
+        "to":"London Bridge NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"New Cross Gate",
+        "to":"New Cross",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Woolwich",
+        "to":"Woolwch Arsn NR",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo E NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo E NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Waterloo NR",
+        "to":"Waterloo E NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Whyteleafe",
+        "to":"Upper Warlingham",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Victoria NR",
+        "to":"Victoria NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Richmond",
+        "time":10,
+        "type":"PAYG only",
+        "interchange_note":"Lower concourse (step-free) and bridge"
+    },
+    {
+        "from":"Harringay Grn Ln",
+        "to":"Harringay",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Paddington EL",
+        "to":"Paddington NR",
+        "time":40,
+        "type":"Contactless Only",
+        "interchange_note":null
+    },
+    {
+        "from":"Hackney Central",
+        "to":"Hackney Downs",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Wanstead Park",
+        "to":"Forest Gate",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Woodgrange Park",
+        "to":"Manor Park",
+        "time":20,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Walthamstw Qns Rd",
+        "to":"Walthamstow C LO",
+        "time":25,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Liverpool St NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"11-18 and platforms 1-10"
+    },
+    {
+        "from":"Fenchurch St NR",
+        "to":"Liverpool St NR",
+        "time":40,
+        "type":"PAYG only",
+        "interchange_note":null
+    },
+    {
+        "from":"Same NLC OSI",
+        "to":"Victoria NR",
+        "time":30,
+        "type":"PAYG only",
+        "interchange_note":"8 and platforms 1-7"
+    }
+]
