@@ -1,0 +1,104 @@
+<html>
+
+<head>
+    <style>
+    html{
+        font-family:sans-serif;
+    }
+        #stationsDatalist,
+        #stationsdatalist option {
+            display: block;
+        }
+
+        #stationsDatalist {
+            height: 500px;
+            overflow-y: scroll;
+            border: 1px solid lightgray;
+            border-radius: 10px;
+            padding: 10px;
+            margin-top: 10px;
+            grid-column-start: 1;
+            grid-column-end: 2;
+        }
+
+        #stationsdatalist option {
+            background: navy;
+            color: white;
+            padding: 7px;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin: 3px;
+            cursor: pointer;
+            border-radius: 1em;
+        }
+
+        #stationsdatalist option:hover {
+            background: #a1a1a1;
+        }
+        #thingyContainer{
+            display: grid;
+            max-width: 900px;
+            border: 1px solid lightgray;
+            border-radius: 10px;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        #osiDiv{
+            grid-column-start: 2;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="thingyContainer">
+        <div id="osiDiv"></div>
+    </div>
+</body>
+<script>
+    'use strict'
+
+    function loadStation(inputStation) {
+        if (uniqueStations.has(inputStation)) {
+            var possibleOsiArray = mainJson.filter(x => x.from == inputStation)
+            osiDivElm.innerHTML = JSON.stringify(possibleOsiArray)
+        }
+    }
+
+    function processJson(inputJson) {
+        mainJson = inputJson
+
+        var inputElm = document.createElement("input")
+        var datalistElm = document.createElement("datalist")
+        uniqueStations = new Set(inputJson.map(x => x.from))
+
+        inputElm.setAttribute("list", "stationsDatalist")
+        datalistElm.id = "stationsDatalist"
+
+        inputElm.setAttribute("oninput", "loadStation(this.value)")
+
+            ;[...uniqueStations].toSorted().forEach(x => {
+                var tempOptionElm = document.createElement("option")
+                tempOptionElm.classList.add("stationName")
+                tempOptionElm.value = x
+                tempOptionElm.innerHTML = x
+                tempOptionElm.setAttribute("onclick", "loadStation(this.value)")
+                datalistElm.append(tempOptionElm)
+            })
+
+        document.getElementById("thingyContainer").prepend(inputElm, datalistElm)
+    }
+
+    async function loadJson() {
+        await fetch("osi.json").then(x => x.json()).then(x => processJson(x))
+    }
+
+    loadJson()
+
+    // globals
+    var mainJson
+    var uniqueStations
+    const osiDivElm = document.getElementById("osiDiv")
+</script>
+
+</html>
