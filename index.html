@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -24,7 +25,7 @@
             grid-column-end: 2;
         }
 
-        #stationsdatalist option.stationName {
+        #stationsdatalist div.stationName {
             background: navy;
             color: white;
             padding: 7px;
@@ -35,11 +36,11 @@
             border-radius: 1em;
         }
 
-        #stationsdatalist option:hover {
+        #stationsdatalist div:hover {
             background: #a1a1a1;
         }
 
-        #stationsdatalist option.selected {
+        #stationsdatalist div.selected {
             background: royalblue;
             font-weight: bold;
         }
@@ -117,7 +118,7 @@
         var inputStation = inputStationElm.value
 
             // unhighlight anything previously highlighted
-            ;[...document.querySelectorAll("#stationsdatalist option.selected")].forEach(x => x.classList.remove("selected"))
+            ;[...document.querySelectorAll("#stationsdatalist div.selected")].forEach(x => x.classList.remove("selected"))
         // highlight this
         inputStationElm.classList.add("selected")
 
@@ -130,25 +131,21 @@
     function processJson(inputJson) {
         mainJson = inputJson
 
-        var inputElm = document.createElement("input")
-        var datalistElm = document.createElement("datalist")
+        var datalistElm = document.createElement("div")
         uniqueStations = new Set(inputJson.map(x => x.from))
 
-        inputElm.setAttribute("list", "stationsDatalist")
         datalistElm.id = "stationsDatalist"
 
-        inputElm.setAttribute("oninput", "loadStation(this.value)")
-
             ;[...uniqueStations].toSorted().forEach(x => {
-                var tempOptionElm = document.createElement("option")
-                tempOptionElm.classList.add("stationName")
-                tempOptionElm.value = x
-                tempOptionElm.innerHTML = x
-                tempOptionElm.setAttribute("onclick", "loadStation(this)")
-                datalistElm.append(tempOptionElm)
+                var tempDivElm = document.createElement("div")
+                tempDivElm.classList.add("stationName")
+                tempDivElm.value = x
+                tempDivElm.innerHTML = x
+                tempDivElm.setAttribute("onclick", "loadStation(this)")
+                datalistElm.append(tempDivElm)
             })
 
-        document.getElementById("thingyContainer").prepend(inputElm, datalistElm)
+        document.getElementById("thingyContainer").prepend(datalistElm)
     }
 
     async function loadJson() {
