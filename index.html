@@ -1,10 +1,13 @@
-<html>
+<html lang="en">
 
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
     <style>
-    html{
-        font-family:sans-serif;
-    }
+        html {
+            font-family: sans-serif;
+        }
+
         #stationsDatalist,
         #stationsdatalist option {
             display: block;
@@ -21,12 +24,12 @@
             grid-column-end: 2;
         }
 
-        #stationsdatalist option {
+        #stationsdatalist option.stationName {
             background: navy;
             color: white;
             padding: 7px;
-            padding-left: 10px;
-            padding-right: 10px;
+            padding-left: 1em;
+            padding-right: 1em;
             margin: 3px;
             cursor: pointer;
             border-radius: 1em;
@@ -35,17 +38,39 @@
         #stationsdatalist option:hover {
             background: #a1a1a1;
         }
-        #thingyContainer{
+
+        #stationsdatalist option.selected {
+            background: royalblue;
+            font-weight: bold;
+        }
+
+        #thingyContainer {
             display: grid;
-            max-width: 900px;
+            max-width: 700px;
             border: 1px solid lightgray;
             border-radius: 10px;
             padding: 10px;
             margin-top: 10px;
+            grid-template-columns: 250px;
         }
-        #osiDiv{
+
+        #osiDiv {
             grid-column-start: 2;
             padding: 10px;
+        }
+
+        #osiDiv .osiCard{
+            background: #cbcbcb;
+            padding: 15px;
+            margin-top: 3px;
+            border-radius: 10px;
+        }
+
+        #osiDiv .osiCard div.type {
+            font-size: x-small;
+            font-style: italic;
+            display: block;
+            margin-top: 2px;
         }
     </style>
 </head>
@@ -58,10 +83,47 @@
 <script>
     'use strict'
 
-    function loadStation(inputStation) {
+    class osiPrettyPrintContainerElm {
+        constructor(to, time, type, interchange_note) {
+            this.to = to
+            this.time = time
+            this.type = type
+            this.interchange_note = interchange_note
+            this.elm = document.createElement("div")
+
+            if (interchange_note) {
+                this.elm.innerHTML = `<div class='osiCard'>${this.to}<br>${this.interchange_note}<br>⏱️ ${this.time} minutes<br><div class='type'>${this.type}</div></div>`
+            }
+            else {
+                this.elm.innerHTML = `<div class='osiCard'>${this.to}<br>⏱️ ${this.time} minutes<div class='type'>${this.type}</div></div>`
+            }
+        }
+    }
+
+    function prettyPrintOsiJson(inputOsiJson) {
+        osiDivElm.innerHTML = ""
+        var elmsArray = []
+
+        inputOsiJson.forEach(x => {
+            var osiPPElm = new osiPrettyPrintContainerElm(x.to, x.time, x.type, x.interchange_note).elm
+            elmsArray.push(osiPPElm)
+        })
+
+
+        osiDivElm.append(...elmsArray)
+    }
+
+    function loadStation(inputStationElm) {
+        var inputStation = inputStationElm.value
+
+            // unhighlight anything previously highlighted
+            ;[...document.querySelectorAll("#stationsdatalist option.selected")].forEach(x => x.classList.remove("selected"))
+        // highlight this
+        inputStationElm.classList.add("selected")
+
         if (uniqueStations.has(inputStation)) {
             var possibleOsiArray = mainJson.filter(x => x.from == inputStation)
-            osiDivElm.innerHTML = JSON.stringify(possibleOsiArray)
+            prettyPrintOsiJson(possibleOsiArray)
         }
     }
 
@@ -82,7 +144,7 @@
                 tempOptionElm.classList.add("stationName")
                 tempOptionElm.value = x
                 tempOptionElm.innerHTML = x
-                tempOptionElm.setAttribute("onclick", "loadStation(this.value)")
+                tempOptionElm.setAttribute("onclick", "loadStation(this)")
                 datalistElm.append(tempOptionElm)
             })
 
